@@ -7,4 +7,4 @@ graph TD
     C --> D[Consulta la API de Fake Store]
     D --> E[Se obtiene la recomendación del producto]
     E --> F[Activity Resultados/Recomendación]
-    F --> G[Activity Detalle del Producto (opcional)]
+    F --> G[Activity Detalle del Producto - opcional]
